@@ -1,5 +1,3 @@
-#Script used to create tidy dataset from the given data  
-
 # install.packages("data.table")
 library("data.table")
 
