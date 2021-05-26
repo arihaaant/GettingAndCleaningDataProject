@@ -27,7 +27,7 @@ This file 'run_analysis.R' contains all the code to perform the analyses describ
 About this R script
 File with R code "run_analysis.R" perform 5 following steps (in accordance assigned task of course work):
 
-###Merging the training and the test sets to create one data set.
+### Merging the training and the test sets to create one data set.
 1.1 Reading files
 
 1.1.1 Reading trainings tables 
@@ -42,7 +42,8 @@ File with R code "run_analysis.R" perform 5 following steps (in accordance assig
 
 1.3 Merging all data in one set
 
-###Extracting only the measurements on the mean and standard deviation for each measurement
+### Extracting only the measurements on the mean and standard deviation for each measurement
+
 2.1 Reading column names
 
 2.2 Create vector for defining ID, mean and standard deviation
