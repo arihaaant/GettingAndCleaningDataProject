@@ -1,4 +1,4 @@
-# GettingAndCleaningDataProject
+# Getting And Cleaning Data Project
 
 
 This is the course project of getting and cleaning data. The pruprose of this assignment is to collect, work with, and clean the given dataset that has been provided. You can access the link given below to get information on the dataset we have worked on.
